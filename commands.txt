@@ -1,0 +1,15 @@
+    1  git log --oneline
+    2  ls
+    3  git status
+    4  git add .
+    5  git commit -m "contact page created"
+    6  git push origin header
+    7  git checkout main
+    8  git log --oneline
+    9  git checkout header
+   10  git log --oneline
+   11  git checkout main
+   12  git merge header
+   13  git push origin main
+   14  history
+   15  history > commands.txt
